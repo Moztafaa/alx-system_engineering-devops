@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-ALX shell project
+Task 0. Where am I?
